@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lora', sans-serif;
+    background-color: #f5f0e8;
+    color: #2c1810;
+}
+
+a {
+    color: #6b7c3d;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipesPages {
+    width: 400px;
+    height: 3em;
+    margin: 0 auto;
+    margin-top: 5em;
+}
+
+img {
+    display: block;
+}
