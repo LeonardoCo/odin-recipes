@@ -13,13 +13,26 @@ h1 {
     text-align: center;
 }
 
-.recipesPages {
+
+.recipesPage {
     width: 400px;
     height: 3em;
     margin: 0 auto;
     margin-top: 5em;
+    padding-left: 200px;
 }
 
 img {
     display: block;
+    width: 400px;
+    margin: 100px auto;
+}
+
+.recipe {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.backToHome {
+    display: block;    
 }
